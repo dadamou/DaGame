@@ -50,6 +50,30 @@
       "title" : "",
       "description" : "",
       "written" : "<p>LESSS GOOOOO YOU GOT THE COIN GLITCH!!!! Watch this step-by-step walkthrough.</p><p><br></p><p><br></p><p>Stuck in this game?&nbsp;</p><p>Ask a question in place of reviews and let other gamers answer your question or view answers to previously asked questions. If you think you are an expert then please try to help others with their questions.</p>"
-    }
+   ,
+    {
+      "id" : 1,
+      "imageURL" : "https://dadamou.github.io/DaGame/sdagame3.png",
+      "state" : "free",
+      "title" : "",
+      "description" : "",
+      "written" : "<p>Watch this step-by-step walkthrough, which may help and guide you through each and every level part of this game.</p><p><br></p><p><br></p><p>Stuck in this game?&nbsp;</p><p>Ask a question in place of reviews and let other gamers answer your question or view answers to previously asked questions. If you think you are an expert then please try to help others with their questions.</p>"
+ },
+    {
+      "id" : 2,
+      "imageURL" : "https://dadamou.github.io/DaGame/sdagame4.png",
+      "state" : "free",
+      "title" : "",
+      "description" : "",
+      "written" : "<p>How to get easy Highscores and unlock da motherIf it wasn’t clear, the score boost at the beginning of some rounds doesn’t give you more coins or effect the high score</p><p><br></p><p><br></p><p>Stuck in this game?&nbsp;</p><p>Ask a question in place of reviews and let other gamers answer your question or view answers to previously asked questions. If you think you are an expert then please try to help others with their questions.</p>"
+   },
+    {
+      "id" : 3,
+      "imageURL" : "https://dadamou.github.io/DaGame/sdagame2.png",
+      "state" : "free",
+      "title" : "",
+      "description" : "",
+      "written" : "<p>Stuck in this game?&nbsp;</p><p>Ask a question in place of reviews and let other gamers answer your question or view answers to previously asked questions. If you think you are an expert then please try to help others with their questions.</p>"
+   }
   ]
 }
